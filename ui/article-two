@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>
+            Article two | Ganesh Pawar
+        </title>
+        <meta name="viewport" content="width-device-width, initial-scale=1">
+    </head>
+    <body>
+        <div>
+            <a href="/">Home</a>
+        </div>
+        <hr/>
+        <h3>
+            Article two
+        </h3>
+        <div>
+            Aug 22, 2018 
+        </div>
+        <div>
+            <p>
+                This is content of my second article, 
+                This is content of my second article, 
+                This is content of my second article, 
+                This is content of my second article, 
+                This is content of my second article, 
+            </p>
+            <p>
+                This is content of my second article, 
+                This is content of my second article, 
+                This is content of my second article, 
+                This is content of my second article, 
+
+            </p>
+            <p>
+                This is content of my second article, 
+                This is content of my second article, 
+                This is content of my second article, 
+                This is content of my second article, 
+
+            </p>
+        </div>
+    </body>
+</html>
